@@ -1,4 +1,5 @@
-uno
-===
+<?php
 
-mi primer ejemplo
+echo 'ignacio';
+
+?>
